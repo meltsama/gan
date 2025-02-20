@@ -82,9 +82,9 @@ Sequential(
 ## 训练效果
 不同训练阶段的生成样本对比：
 
-| Epoch 10          | Epoch 30          | Epoch 50          |
+| Epoch 30          | Epoch 40          | Epoch 50          |
 |-------------------|-------------------|-------------------|
-| ![E10](assets/epoch10.png) | ![E30](assets/epoch30.png) | ![E50](https://github.com/meltsama/gan/blob/e5ff58d2979206819be977ff25af6e994a3232ac/Epoch_50.png) |
+| ![E10](assets/epoch10.png) | ![E30](https://github.com/meltsama/gan/blob/fe42bfb4c6b9cd4bb02858d23d5706341df52f03/Epoch_40.png) | ![E50](https://github.com/meltsama/gan/blob/e5ff58d2979206819be977ff25af6e994a3232ac/Epoch_50.png) |
 
 ## 文件结构
 ```
