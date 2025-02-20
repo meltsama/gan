@@ -84,7 +84,7 @@ Sequential(
 
 | Epoch 10          | Epoch 30          | Epoch 50          |
 |-------------------|-------------------|-------------------|
-| ![E10](assets/epoch10.png) | ![E30](assets/epoch30.png) | ![E50](assets/epoch50.png) |
+| ![E10](assets/epoch10.png) | ![E30](assets/epoch30.png) | ![E50](https://github.com/meltsama/gan/blob/e5ff58d2979206819be977ff25af6e994a3232ac/Epoch_50.png) |
 
 ## 文件结构
 ```
